@@ -13,7 +13,6 @@
 - SQL
 
 **Tools & Technologies**  
-- Web Development: Django 
 - Database Management: MySQL 
 - Home Automation: Zigbee2MQTT, Homeassistant 
 - Networking: WiFi, Network Configuration, LAN Testing  
