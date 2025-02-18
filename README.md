@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jonathan!
 
-<!--
-**notdolair/notdolair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
+🎓 I’m a student at HTL Wirtschaft Informatik in Innsbruck, Austria, focusing on Computer Science and Software Development.  
+🌱 Currently, I’m improving my skills in Python and Django, and I’m learning more about Java, HTML, JavaScript, CSS, and SQL.  
+💻 I enjoy tinkering with hardware and am passionate about building and creating new tech solutions.
+🔭 I love experimenting with Home Automation, creating custom solutions using Zigbee2MQTT, and working with networking technologies like WiFi.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+**Primary Languages**  
+- Java (main)  
+- JavaScript, HTML, CSS
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Technologies**  
+- Web Development: Django 
+- Database Management: MySQL 
+- Home Automation: Zigbee2MQTT, Homeassistant 
+- Networking: WiFi, Network Configuration, LAN Testing  
+- 3D Printing: Banbulap A1  
+
+## 🚀 My Projects
+Here are some of my projects:
+  Comming soon
+## 🧑‍💻 Current Projects
+- Building a mobile app to assist with tuning MTB suspension based on rider-specific data.
+- Exploring web development with Django for more interactive applications.
+
+## 🌱 Let's Connect!
+- [GitHub](https://github.com/notdolair)
+- [Instagram](https://instagram.com/jonathanlaucher)
+- [Makerworld](https://makerworld.com/de/@notdolair)
