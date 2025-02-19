@@ -19,7 +19,7 @@
 - 3D Printing: Banbulap A1  
 
 ## 🚀 My Projects
-Here are some of my projects:
+- [Shopping List](https://github.com/notdolair/shopping_list)
   Comming soon
 ## 🧑‍💻 Current Projects
 - Building a mobile app to assist with tuning MTB suspension based on rider-specific data.
