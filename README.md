@@ -11,6 +11,7 @@
 - Java (main)  
 - JavaScript, HTML, CSS
 - SQL
+- Git
 
 **Tools & Technologies**  
 - Database Management: MySQL 
