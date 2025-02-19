@@ -26,6 +26,5 @@ Here are some of my projects:
 - Exploring web development with Django for more interactive applications.
 
 ## 🌱 Let's Connect!
-- [GitHub](https://github.com/notdolair)
 - [Instagram](https://instagram.com/jonathanlaucher)
 - [Makerworld](https://makerworld.com/de/@notdolair)
