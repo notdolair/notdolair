@@ -20,7 +20,7 @@
 
 ## 🚀 My Projects
 - [Shopping List](https://github.com/notdolair/shopping_list)
-  Comming soon
+
 ## 🧑‍💻 Current Projects
 - Building a mobile app to assist with tuning MTB suspension based on rider-specific data.
 - Exploring web development with Django for more interactive applications.
