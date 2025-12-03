@@ -16,7 +16,7 @@
 - Database Management: MySQL 
 - Home Automation: Zigbee2MQTT, Homeassistant 
 - Networking: WiFi, Network Configuration, LAN Testing  
-- 3D Printing: Bambulap A1  
+- 3D Printing: Bambulab A1  
 
 
 ## 🌱 Let's Connect!
