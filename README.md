@@ -11,21 +11,13 @@
 - Java (main)  
 - JavaScript, HTML, CSS
 - SQL
-- Git
 
 **Tools & Technologies**  
 - Database Management: MySQL 
 - Home Automation: Zigbee2MQTT, Homeassistant 
 - Networking: WiFi, Network Configuration, LAN Testing  
-- 3D Printing: Banbulap A1  
+- 3D Printing: Bambulap A1  
 
-## 🚀 My Projects
-- [Shopping List](https://github.com/notdolair/shopping_list)
-- [TürmeVonHanoi](https://github.com/notdolair/tuerme_von_hanoi)
-
-## 🧑‍💻 Current Projects
-- Building a mobile app to assist with tuning MTB suspension based on rider-specific data.
-- Exploring web development with Django for more interactive applications.
 
 ## 🌱 Let's Connect!
 - [Instagram](https://instagram.com/jonathanlaucher)
