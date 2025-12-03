@@ -8,7 +8,7 @@
 
 ## 🛠️ Technical Skills
 **Primary Languages**  
-- Java (main)  
+- Java  
 - JavaScript, HTML, CSS
 - SQL
 
